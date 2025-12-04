@@ -4,9 +4,9 @@ let slider;
 let ambientsound;
 
 function preload() {
-  bg = loadImage('/assets/bg.png');
-  overgrowth = loadImage('/assets/bgog.png');
-  ambientsound = loadSound('/assets/forest.mp3')
+  bg = loadImage('assets/bg.png');
+  overgrowth = loadImage('assets/bgog.png');
+  ambientsound = loadSound('assets/forest.mp3')
 }
 
 function setup() {
