@@ -18,17 +18,16 @@ With this assignment, the difficulties would be overwhelmed by the aspirations o
 ### Assets
 
 - All the artwork was completed in Aseprite.
+
 - Audio file from https://pixabay.com/sound-effects/forest-ambience-296528/  (I had attempted recording it myself but realised quality was poor and opted for an audio file.)
+
+- Font accessed from https://www.dafont.com/pixeled.font
 
 ### Git hub repository
 
 
 ```
-link```
+https://github.com/Visyi/MA1805-Satelitte
 
-## Help
+```
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
